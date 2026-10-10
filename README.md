@@ -11,7 +11,7 @@
 
 ---
 
-I'm the engineer behind **BMC (Brands Meet Creators)** — built and scaled it from 0 to 23,000+ users (20K+ active) over 1.5+ years.
+I'm the engineer behind **BMC (Brands Meet Creators)** — built and scaled it from 0 to 23,000+ users (20K+ active) over 2+ years.
 
 I work with founders who have vision but no technical execution, and CTOs who need a product architect — not just a coder.
 
